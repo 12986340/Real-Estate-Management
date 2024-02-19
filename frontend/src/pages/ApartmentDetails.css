@@ -1,0 +1,22 @@
+.overview{ 
+    padding-top: 100px;
+    padding-left: 80px !important;
+    padding-right: 80px !important;
+    padding-bottom: 20px;
+   
+}
+h4{
+    text-align: center;
+    background:#0a3a5a;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.p1{
+    padding-top: 50px;
+    text-align:center;
+    font-size: 24px;
+}

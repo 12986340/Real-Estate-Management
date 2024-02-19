@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "ezyrent.max-in-one-apartment",
+    "type": "java.lang.String",
+    "description": "A description for 'ezyrent.max-in-one-apartment'"
+  },
+  {
+    "name": "file.upload.location",
+    "type": "java.lang.String",
+    "description": "A description for 'file.upload.location'"
+  }
+]}
